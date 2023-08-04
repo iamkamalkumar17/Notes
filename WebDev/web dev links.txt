@@ -1,0 +1,83 @@
+css flexbox guide
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+lorem lipsum
+google fonts
+
+https://appbrewery.github.io/flexboxfroggy/
+	flexbox practice
+https://appbrewery.github.io/gridgarden/
+	grid practice
+
+image hosting
+	imgur
+
+paragraph generate
+	https://www.lipsum.com/
+
+color pallate
+	colorhunt.co
+
+https://getbootstrap.com/
+	bootstrap
+
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+	bootstrap templates free
+
+https://color.adobe.com/create/color-wheel
+	colors
+
+https://www.dailyui.co/
+	design daily ui 
+canva.com
+	graphic editing
+
+https://github.com/rwaldron/idiomatic.js/
+	javascript convention
+
+draw.io
+	drawing diagrams and more such cool things
+
+https://www.appbrewery.co/p/web-development-course-resources
+	course resources
+
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+	official documentation
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+          google jquery cdn
+
+minify.org
+	minify js and css code
+
+https://www.learnenough.com/command-line-tutorial
+	command line tutorial
+
+netstat -ano | findstr "LISTENING"
+	type this on cmd to find out where are ports listening to
+
+https://learngitbranching.js.org/
+	learn github
+
+jsonviewer.stack.hu
+	json visualizer
+
+pattern.monster
+	generate pattern in css or svg to use in background
+
+katakode.com
+	node playground
+
+https://sqliteonline.com/
+	sql playground
+
+C:\Program Files\MongoDB\Server\6.0\data\
+
+// mongoose.connect("mongodb+srv://iamkamalkumar17:strongpassword123@cluster0.uqx03df.mongodb.net/todolistDB").then(() => {
+//   console.log("mongodb connected at port 27017");
+// });
+
+https://todo-list-b4o5.onrender.com/
+
+figma.com
+	website design
